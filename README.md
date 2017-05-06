@@ -1,5 +1,7 @@
 # Graceful
 
+[![Build Status](https://travis-ci.org/kohkimakimoto/graceful.svg?branch=master)](https://travis-ci.org/kohkimakimoto/graceful)
+
 Graceful shutdown and restart for Go's `net/http` handlers.
 
 This product is a fork of [miyabi](https://github.com/naoina/miyabi).
